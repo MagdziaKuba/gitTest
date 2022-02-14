@@ -1,2 +1,4 @@
 To jest pierwszy.
 Zmiana
+
+zmiana2
